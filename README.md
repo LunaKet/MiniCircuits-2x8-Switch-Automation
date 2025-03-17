@@ -1,5 +1,5 @@
 # TTR-500-2x8-Switch-Automation
-Python and Matlab commands to automate a low-noise commercial switch on 64-bit computer
+Matlab commands to automate a low-noise commercial switch on 64-bit computer
 ![switch](https://github.com/alailink/MiniCircuits-2x8-Switch-Automation/blob/master/switch.jpg)  
 
 ## Matlab
